@@ -3,7 +3,7 @@
 A new Flutter project.
 | Screen | Video |
 | --- | --- |
-| ![photo_2023-05-26_14-37-17](https://github.com/leak17/simple_google_map/assets/115885247/eb6c8b96-f21d-4c6f-b3e8-060b0ded227a) | ![Screenshot from 2023-05-25 18-21-01](https://github.com/leak17/simple_google_map/assets/115885247/8f4ee0ac-94e6-41f7-8d88-61f839442015)
+| ![photo_2023-05-26_14-37-17](https://github.com/leak17/simple_google_map/assets/115885247/eb6c8b96-f21d-4c6f-b3e8-060b0ded227a) | ![Screenshot from 2023-05-25 18-21-01](https://github.com/leak17/simple_google_map/assets/115885247/246e7727-c380-4c69-add3-82f5808d5518)
  |
 
 https://github.com/leak17/simple_google_map/assets/115885247/7fa87b8b-b429-43b5-a2c3-2936ab2615a1
